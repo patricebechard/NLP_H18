@@ -8,7 +8,7 @@ De nombreuses chaînes de traitement des langues font intervenir des lemmes. Le 
 
 ##### Rapport
 
-Le rapport final (anglais) est présenté dans le fichier *IFT6285-patricebechard.pdf*
+Le rapport final (anglais) est présenté dans le fichier *report.pdf*
 
 ##### Code source
 

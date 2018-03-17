@@ -8,11 +8,11 @@ De nombreuses chaînes de traitement des langues font intervenir des lemmes. Le 
 
 ##### Rapport
 
-Le rapport final (anglais) est présenté dans le fichier *report.pdf*
+Le rapport final (anglais) est présenté dans le fichier **report.pdf**
 
 ##### Code source
 
-Le code source est écrit en Python 3.6 et est présenté sous format jupyter notebook dans le fichier *IFT6285-patricebechard.ipynb*
+Le code source est écrit en Python 3.6 et est présenté sous format jupyter notebook dans le fichier **lem2surf.ipynb**
 
 ##### Données
 
